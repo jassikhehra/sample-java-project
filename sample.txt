@@ -1,1 +1,2 @@
-pushing the new code to check
+pushing the new code to chec
+checking ssh connectionk
